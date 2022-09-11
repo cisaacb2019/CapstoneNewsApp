@@ -8,31 +8,31 @@ import com.cb.newsapp.databinding.ArticleViewBinding
                 "", "Breaking News...",
                 "descriptiondisplay", "url",
                 "imageurl", "publishedate",
-                "content"
+                "Breaking news something happened...."
             ),
             Article(
                 "", "Car_Crash",
                 "descriptiondisplay2", "url2",
                 "imageurl2", "publishedate2",
-                "content2"
+                "car crash spotted out near highway."
             ),
             Article(
                 "Bill Smith", "Stocks To Buy",
                 "descriptiondisplay3", "url3",
                 "imageurl3", "publishedate3",
-                "content3"
+                "This  is a guarentee return on investment I promise....(not financial advice)"
             ),
             Article(
                 "dave jones  ", "Politics",
                 "", "url4",
                 "imageurl4", "publishedate4",
-                "content4"
+                "Something political happened, some rage others agree."
             ),
             Article(
                 "some one ", "art stolen",
                 "descriptiondisplay5", "url5",
                 "", "publishedate5",
-                "content5"
+                "1 billion dollar peice has been heisted."
             ),
 
              Article(

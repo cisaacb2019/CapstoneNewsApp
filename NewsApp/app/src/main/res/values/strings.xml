@@ -10,4 +10,7 @@
     <string name="landnewstext3">NewsText3</string>
     <string name="landnewstext4">NewsText4</string>
     <string name="landnewstext5">NewsText5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="backbutton">Back Button</string>
 </resources>
